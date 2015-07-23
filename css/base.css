@@ -1,0 +1,18 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    text-align: center;
+}
+
+canvas {
+    width: 400px;
+    height: 280px;
+    padding: 0;
+    display: block;
+    margin: 50px auto;
+    border-color: #99b4e1 #4a5b89 #4a5b89 #99b4e1;
+    border-style: solid;
+    border-width: 6px;
+}
